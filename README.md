@@ -17,8 +17,9 @@ What things you need to install the software and how to install them.
 
 Installing
 Follow the different step on the massa documentation from building a smartcontract to running a node and create a wallet
-Deployment
-Add additional notes about how to deploy this on a live system.
+Deployment:
+
+Use name run deploy to launch the SC and npx live-server to get the front end
 
 Built With
 Massa - The smart contract platform used.
